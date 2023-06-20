@@ -6,7 +6,7 @@ import {
   Sheet,
   Typography,
 } from "@mui/joy";
-import React, { useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { AuthService } from "../../../../infrastructure/communication/services/auth.service";
 import { MessagesSystemEnum } from "../../../../domain/enum/messages.enum";
 import { Link, useNavigate } from "react-router-dom";
