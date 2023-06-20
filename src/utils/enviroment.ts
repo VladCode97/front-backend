@@ -1,0 +1,1 @@
+export const URL_ENVIROMENT = "https://waco-backend-test.azurewebsites.net"
